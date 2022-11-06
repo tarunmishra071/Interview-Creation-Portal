@@ -58,4 +58,5 @@ If everything is successfull you will the see the text "app is running" and "db 
 Then open go to client and open index.html. 
 
 Here is the screenshot of the working system / frontend.
-![screenshot](https://drive.google.com/file/d/1sDLy7JSYKMMxPIJSGmO5AxVOcZsPcOjG/view?usp=sharing)
+![MySQL credentials](https://i.paste.pics/9WL5X.png)
+<!-- ![screenshot](https://drive.google.com/file/d/1sDLy7JSYKMMxPIJSGmO5AxVOcZsPcOjG/view?usp=sharing) -->
