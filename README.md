@@ -44,7 +44,7 @@ CREATE TABLE interviews (
   resume VARCHAR(255),
   PRIMARY KEY (id));
 ```
-You may or may not any data into the interviews table. The data will be added automatically when you scedule a new interview.
+You may or may not any data into the interviews table. The data will be added automatically when you schedule a new interview.
 
 Change the following in ```server/dbServicejs``` if your MySQL server is setup on different port or has different credentials.
 ![MySQL credentials](https://i.paste.pics/9WL5X.png)
@@ -58,4 +58,4 @@ If everything is successfull you will the see the text "app is running" and "db 
 Then open go to client and open index.html. 
 
 Here is the screenshot of the working system / frontend.
-![screenshot](https://paste.pics/63d242db0d1f6a24607cf65e0f0e5bdf)
+![screenshot](https://drive.google.com/file/d/1sDLy7JSYKMMxPIJSGmO5AxVOcZsPcOjG/view?usp=sharing)
