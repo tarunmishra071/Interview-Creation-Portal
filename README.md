@@ -54,7 +54,7 @@ Now when everything is setup. Run the server:
 cd server
 nodemon app
 ```
-If everything is successfull you will the see the text "app is running" and "db is connected" on your terminal.
+If everything is successful you will the see the text "app is running" and "db is connected" on your terminal.
 Then open go to client and open index.html. 
 
 Here is the screenshot of the working system / frontend.
