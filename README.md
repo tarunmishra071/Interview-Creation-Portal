@@ -58,4 +58,4 @@ If everything is successfull you will the see the text "app is running" and "db 
 Then open go to client and open index.html. 
 
 Here is the screenshot of the working system / frontend.
-![screenshot](https://i2.paste.pics/JNA7G.png?trs=1566a7468d50c1017c67823464b73495a1c37cd48fe5c153bd56589f3f37fff8)
+![screenshot](https://paste.pics/63d242db0d1f6a24607cf65e0f0e5bdf)
