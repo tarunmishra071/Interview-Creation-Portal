@@ -2,7 +2,7 @@ const nodemailer = require('nodemailer');
 let instance = null;
 
 const SERVICE = 'gmail';
-const USER = 'kushagratesting@gmail.com';
+const USER = 'tarunmishra071@gmail.com';
 const PASSWORD = 'test@1234';
 
 
